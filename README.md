@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-hi, i'm [Brian](https://www.linkedin.com/in/nyagwansa//), I'm Brian, a Software Engineer with a passion for building innovative digital solutions that drive business growth and enhance customer experiences.
+Hi, i'm [Brian](https://www.linkedin.com/in/nyagwansa//), I'm Brian, a Software Engineer with a passion for building innovative digital solutions that drive business growth and enhance customer experiences.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
