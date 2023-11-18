@@ -23,8 +23,4 @@ Hi, i'm [Brian](https://www.linkedin.com/in/nyagwansa//), I'm Brian, a Software 
 
 
 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
