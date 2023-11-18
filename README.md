@@ -22,5 +22,5 @@ Hi, i'm [Brian](https://www.linkedin.com/in/nyagwansa//), I'm Brian, a Software 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/maven/maven.png"></code>
 
 
-📊 **this week i spent my time on:**
+📊 **this week i spent my time on:WAKATIME**
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
